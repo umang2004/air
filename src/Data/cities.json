@@ -1,0 +1,12 @@
+[
+    { "city": "Delhi", "code": "DEL", "label": "Delhi, DEL" },
+    { "city": "Mumbai", "code": "BOM", "label": "Mumbai, BOM" },
+    { "city": "Bangalore", "code": "BLR", "label": "Bangalore, BLR" },
+    { "city": "Hyderabad", "code": "HYD", "label": "Hyderabad, HYD" },
+    { "city": "Kolkata", "code": "CCU", "label": "Kolkata, CCU" },
+    { "city": "Ahmedabad", "code": "AMD", "label": "Ahmedabad, AMD" },
+    { "city": "Pune", "code": "PNQ", "label": "Pune, PNQ" },
+    { "city": "Jaipur", "code": "JAI", "label": "Jaipur, JAI" },
+    { "city": "Goa", "code": "GOI", "label": "Goa, GOI" }
+  ]
+  
